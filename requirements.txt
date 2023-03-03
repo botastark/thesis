@@ -1,0 +1,6 @@
+tensor2tensor
+datasets
+transformers
+librosa
+einops
+wandb
