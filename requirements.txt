@@ -1,0 +1,8 @@
+#tensor2tensor
+datasets
+#transformers
+#librosa
+einops
+#wandb
+wget
+timm==0.4.5
